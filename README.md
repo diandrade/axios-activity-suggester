@@ -31,4 +31,4 @@ This project is part of a course by **Angela Yu** and aims to create a web appli
 
 ## Course
 
-This project was developed as part of a **JavaScript** course by **Angela Yu**. The course focuses on 
+This project was developed as part of a **Full-Stack JavaScript** course by **Angela Yu**. The course focuses on building practical applications using modern web technologies.
