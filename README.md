@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/Screenshot%20from%202025-01-10%2010-27-08.png" alt="Screenshot 1" width="45%" />
+  <img src="assets/Screenshot%20from%202025-01-10%2010-27-25.png" alt="Screenshot 2" width="45%" />
+</div>
+
 # Activity Suggestion App
 
 This project is part of a course by **Angela Yu** and aims to create a web application that suggests random activities based on user preferences. The app allows users to choose activity types and the number of participants, fetching results from an external API. It is built using **Express**, **Axios**, and **EJS** for rendering dynamic content.
